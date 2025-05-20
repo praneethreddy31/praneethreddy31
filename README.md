@@ -1,63 +1,56 @@
 # 👋 Hi, I'm [Your Name]
 
-I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building scalable web apps, solving real-world problems, and continuously learning new technologies.
+I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building scalable web apps, solving real-world problems, and continuously learning cutting-edge technologies.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend:**
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-- HTML5 & CSS3
+### 🚀 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-**Backend:**
-- Node.js
-- Express.js
-- RESTful APIs
-- JSON
-- Python (Flask/FastAPI basics)
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**DevOps & Tools:**
-- Docker
-- AWS (EC2, S3, Lambda basics)
-- Vercel
-- Git & GitHub
-- CI/CD Pipelines (GitHub Actions)
-- Linux (basic CLI & shell scripting)
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-**Database:**
-- MongoDB
-- PostgreSQL
-- MySQL
-- Firebase (basic usage)
-
-**Other:**
-- Postman
-- Swagger
-- Prisma ORM
-- JWT & OAuth (Authentication/Authorization)
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🚀 What I Do
+## 🧠 What I Do
 
-- Develop full-stack web applications with modern technologies.
-- Architect and deploy scalable cloud-native solutions.
-- Solve real-world problems with a practical engineering mindset.
-- Experiment with AI/ML tools and integrate them into applications.
-
----
-
-## 📫 Let's Connect
-
-- **GitHub**: [your-github-profile-link]
-- **LinkedIn**: [your-linkedin-profile-link]
-- **Email**: [your-email@example.com]
+- ✨ Build full-stack web applications using modern technologies.
+- 🔍 Explore AI/ML tools and integrate them with real products.
+- 🧩 Solve complex problems through clean code and creative thinking.
+- 🚀 Deploy and maintain production-ready apps using cloud and containers.
 
 ---
 
-_Always building. Always learning._ ⚙️
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+_“Always building. Always learning.”_
