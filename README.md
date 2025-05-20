@@ -42,11 +42,22 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building s
 - 🚀 Deploy and maintain production-ready apps using cloud and containers.
 ---
 
-## 📫 Connect with Me
-**🔗 [Visit My Portfolio](https://praneethreddy.engineer)**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/praneethreddy31)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/praneethreddy31)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethreddykarrem123@gmail.com)
+## 📫 Socials
+
+<p align="left">
+  <a href="https://yourdomain.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
