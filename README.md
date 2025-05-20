@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Praneeth Reddy
 
 I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building scalable web apps, solving real-world problems, and continuously learning cutting-edge technologies.
 
@@ -33,23 +33,20 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building s
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
 ---
 
 ## 🧠 What I Do
 
 - ✨ Build full-stack web applications using modern technologies.
 - 🔍 Explore AI/ML tools and integrate them with real products.
-- 🧩 Solve complex problems through clean code and creative thinking.
 - 🚀 Deploy and maintain production-ready apps using cloud and containers.
-
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+**🔗 [Visit My Portfolio](https://praneethreddy.engineer)**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/praneethreddy31)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/praneethreddy31)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethreddykarrem123@gmail.com)
 
 ---
 
